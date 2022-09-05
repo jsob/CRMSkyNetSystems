@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a88817db-bc77-4c10-b3f8-fdbb8a9b8251" name="skynetsystems.ru" url="http://31.31.196.54">
+        <fileTransfer host="31.31.196.54" port="21" rootFolder="/www/skynetsystems.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
