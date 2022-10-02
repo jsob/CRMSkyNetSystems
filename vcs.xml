@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/jsob/CRMSkyNetSystems.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jsob/skynetplatform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Projects" />
+    <option name="cloneParentDir" value="E:\1workproj" />
   </component>
 </application>
